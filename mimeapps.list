@@ -1,0 +1,14 @@
+[Added Associations]
+application/octet-stream=xfce4-run.desktop;gcr-prompter.desktop;io.github.celluloid_player.Celluloid.desktop;
+application/x-ms-dos-executable=org.gnome.FileRoller.desktop;xfce4-run.desktop;
+application/x-sharedlib=xfce4-file-manager.desktop;
+inode/socket=xfce4-terminal-emulator.desktop;
+application/vnd.appimage=gdebi.desktop;xfce4-run.desktop;
+application/zip=openjdk-11-java.desktop;apturl.desktop;gdebi.desktop;
+inode/directory=xfce4-settings-editor.desktop;org.gnome.baobab.desktop;org.xfce.Catfish.desktop;
+application/vnd.sqlite3=apturl.desktop;gdebi.desktop;
+application/x-yaml=org.gnome.FileRoller.desktop;
+application/pgp-encrypted=com.axosoft.GitKraken.desktop;
+
+[Default Applications]
+application/vnd.sqlite3=gdebi.desktop
